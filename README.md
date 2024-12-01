@@ -5,5 +5,3 @@ This pipeline is a minimal example that logs a simple message and runs successfu
 ## Pipeline Summary
 
 - Logs a message and completes successfully.
-
-# logging
