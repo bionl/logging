@@ -1,0 +1,9 @@
+{
+  "name": "my-logging-pipeline",
+  "description": "A minimal pipeline that only logs a message.",
+  "version": "1.0.0",
+  "nextflowVersion": {
+    "min": "22.10.0"
+  },
+  "parameters": []
+}
