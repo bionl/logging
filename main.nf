@@ -3,7 +3,7 @@
 nextflow.enable.dsl=2
 
 process logStep {
-    debug true
+    echo true
 
     script:
     """
