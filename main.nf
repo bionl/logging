@@ -3,7 +3,8 @@
 nextflow.enable.dsl=2
 
 process logStep {
-    echo true
+    container 'ubuntu:22.04'
+    debug true
 
     script:
     """
